@@ -1,0 +1,12 @@
+C:\Kristof\Programming\C#\Flashcards\Flashcards\bin\Debug\Flashcards.exe.config
+C:\Kristof\Programming\C#\Flashcards\Flashcards\bin\Debug\Flashcards.exe
+C:\Kristof\Programming\C#\Flashcards\Flashcards\bin\Debug\Flashcards.pdb
+C:\Kristof\Programming\C#\Flashcards\Flashcards\obj\Debug\Flashcards.csprojAssemblyReference.cache
+C:\Kristof\Programming\C#\Flashcards\Flashcards\obj\Debug\Flashcards.Form1.resources
+C:\Kristof\Programming\C#\Flashcards\Flashcards\obj\Debug\Flashcards.Properties.Resources.resources
+C:\Kristof\Programming\C#\Flashcards\Flashcards\obj\Debug\Flashcards.csproj.GenerateResource.cache
+C:\Kristof\Programming\C#\Flashcards\Flashcards\obj\Debug\Flashcards.csproj.CoreCompileInputs.cache
+C:\Kristof\Programming\C#\Flashcards\Flashcards\obj\Debug\Flashcards.exe
+C:\Kristof\Programming\C#\Flashcards\Flashcards\obj\Debug\Flashcards.pdb
+C:\Kristof\Programming\C#\Flashcards\Flashcards\obj\Debug\Flashcards.Form2.resources
+C:\Kristof\Programming\C#\Flashcards\Flashcards\obj\Debug\Flashcards.Form3.resources
